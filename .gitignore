@@ -1,0 +1,5 @@
+﻿/.idea
+ChatSample/bin
+ChatSample/obj
+ChatSample/logs
+*.DotSettings.user
